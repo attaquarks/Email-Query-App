@@ -31,10 +31,7 @@ A Streamlit application that fetches Outlook emails and allows you to ask questi
 python -m venv .venv
 
 # Activate environment
-# Windows:
 .venv\Scripts\activate
-# macOS/Linux:
-# source .venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
